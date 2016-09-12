@@ -1,0 +1,19 @@
+ISBN,Title,FirstName,LastName,Genre,Price,Quanity,OnSale
+132923729,Data Abstraction & Problem Solving with C++,Frank M.,Carrano,textbook,119.38,4,0
+133591743,Problem Solving with C++,Walter,Savitch,textbook,116.5,2,0
+201702975,Data Structures and Other Objects Using C++,Michael,Main,textbook,107.98,99,0
+547928210,The Fellowship of the Ring,J. R. R.,Tolkin,fantasy,8.24,45,1
+064471046,The Lion The Witch and Wardrobe,C. S.,Lewis,fantasy,5.23,23,1
+439708180,Harry Potter and the Sorcerer's Stone,J. K.,Rowling,fantasy,6.29,13,0
+679805274,Oh The Places You'll Go,Dr,Seuss,childrens,11.99,43,0
+060572341,Where the Sidewalk Ends,Shel,Silverstein,childrens,2.22,76,1
+399226908,The Very Hungry Caterpillar ,Eric,Carle,childrens,25.18,18,0
+385737951,The Maze Runner,James,Dashner,young adult,6.49,20,0
+062387240,Divergent,Veronica,Roth,young adult,6.91,9,0
+142424179,The Fault In Our Stars,John,Green,young adult,6.49,10,0
+1501103711,The Dovekeepers,Alice,Hoffman,fiction,0.47,38,1
+060850524,A Brave New World,Aldous,Huxley,fiction,17.95,12,0
+345391803,The Hitchhiker's Guide to the Galaxy,Douglas,Adams,fiction,6.01,42,0
+674943049,Voices of the Mind,James,Wertsch,education,6.74,16,1
+674576292,Mind in Society,L. S.,Vygotsky,education,15.5,7,0
+262632690,Unlicking the Clubhouse,Jane,Margolis,education,14.11,28,0

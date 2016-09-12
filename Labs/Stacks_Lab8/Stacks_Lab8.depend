@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1437445075 source:/home/user/Documents/Data Structures/Labs/Stacks_Lab8/main.cpp
+	<iostream>
+	<stdexcept>
+

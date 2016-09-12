@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1438196827 source:/home/user/Documents/Data Structures/Labs/lab14/main.cpp
+	<iostream>
+	<fstream>
+
